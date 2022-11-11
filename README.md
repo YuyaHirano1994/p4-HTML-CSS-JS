@@ -8,6 +8,6 @@ ref: youtube
 
 HTML CSS JavaScript
 
-# What did you learn?
+# What did I learn?
 
 HTML CSS Js
